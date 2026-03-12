@@ -1,32 +1,5 @@
 # บทที่ 8: การสนับสนุนของระบบปฏิบัติการ (Operating System Support)
 
-## สารบัญของบท
-
-* **8.1 ภาพรวมของระบบปฏิบัติการ (Operating System Overview)**
-
-  * วัตถุประสงค์และหน้าที่ของระบบปฏิบัติการ
-  * ประเภทของระบบปฏิบัติการ
-* **8.2 การจัดตารางการทำงาน (Scheduling)**
-
-  * Long-Term Scheduling
-  * Medium-Term Scheduling
-  * Short-Term Scheduling
-* **8.3 การจัดการหน่วยความจำ (Memory Management)**
-
-  * Swapping
-  * Partitioning
-  * Paging
-  * Virtual Memory
-  * Translation Lookaside Buffer
-  * Segmentation
-* **8.4 การจัดการหน่วยความจำของ Intel x86**
-
-  * Address Spaces
-  * Segmentation
-  * Paging
-* **8.5 การจัดการหน่วยความจำของ ARM**
-* **8.6 คำศัพท์สำคัญ คำถามทบทวน และแบบฝึกหัด**
-
 ---
 
 # 8.1 ภาพรวมของระบบปฏิบัติการ
